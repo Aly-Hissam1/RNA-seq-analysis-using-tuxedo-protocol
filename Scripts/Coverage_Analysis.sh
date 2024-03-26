@@ -2,11 +2,9 @@
 
 # Directory containing BAM files
 BAM_DIR="/mnt/Partition_2/Interns/Aly_Hissam/Aligned_files/"
-
 # Output directory for coverage files and average coverage
 OUTPUT_DIR="/mnt/Partition_2/Interns/Aly_Hissam/Coverage_hisat_files/"
 mkdir -p "$OUTPUT_DIR"
-
 # Loop through each BAM file in the directory
 for BAM_FILE in "$BAM_DIR"/*.bam; do
     BASE_NAME=$(basename "$BAM_FILE" .bam)
