@@ -32,7 +32,9 @@ State-of-the-art Tools Protocol: The quantification matrix is first TMM normaliz
 
 **Assessment**
 
-An assessment is performed to identify the intersection of differentially expressed genes identified by various tools. Pathway enrichment analysis is conducted using databases such as Kaggle, Reactome, and Gene Ontology to ensure high confidence in the findings.
+The intersection of differentially expressed genes by various tools were identified. 
+
+Pathway enrichment analysis is conducted using databases such as Kaggle, Reactome, and Gene Ontology to ensure high confidence in the findings.
 
 **Input Files**
 
