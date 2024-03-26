@@ -16,4 +16,3 @@ y <- calcNormFactors(y)
 logCPMs <- cpm(y, log = TRUE, prior.count = 1)
 #Write normalised result to a file
 write.table(logCPMs,file= "HTSeq_combined_counts_TMM_Normalized.tsv", sep="\t", row.names = TRUE,col.names = NA,quote = FALSE)
-
