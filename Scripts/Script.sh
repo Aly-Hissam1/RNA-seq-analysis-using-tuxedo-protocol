@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# To run the script --> bash Script.sh Input.txt
+# Do not forget to modify the path of the gtf file to suits you in the HTSeq_QUANT() and TOPHAT_ALIGN() functions.
 To_Fastp()
 {
 	if [ -f "$cwd/Fastp_files/$ID""_R1.fil.fastq.gz" ] && [ -f "$cwd/Fastp_files/$ID""_R2.fil.fastq.gz" ] && [ -f "$cwd/Fastp_files/$ID.json" ] && [ -f "$cwd/Fastp_files/$ID.html" ];
