@@ -38,7 +38,9 @@ Pathway enrichment analysis is conducted using databases such as Kaggle, Reactom
 
 **Input Files**
 
-The input files for the analysis are paired-end FastQ files and a reference genome.
+The input files for the analysis are paired-end FastQ files, a reference genome and a GTF.
+
+The input files are provided to the script as "Input.txt". Each line in the file corresponds to one sample and contains paths to the forward read, reverse read, the reference genome, the sample ID, and the protocol number to be used.
 
 **Final Note**
 
