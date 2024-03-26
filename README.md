@@ -9,14 +9,19 @@ This project implements two protocols for RNA-seq analysis. The first utilizes t
 **Protocols Workflow**
 
 *Quality Control*
+
 Both protocols begin with FastP for quality control and trimming of the raw data.
 
 *Alignment*
+
 Tuxedo Protocol: Alignment is performed using TopHat.
+
 State-of-the-art Tools Protocol: Alignment is achieved with Hisat2.
 
 *Transcript Assembly*
+
 Tuxedo Protocol: Transcript assembly is handled by Cufflinks, and the output is merged using Cuffmerge.
+
 State-of-the-art Tools Protocol: HTSeq is used for assembly, and a custom Python script to_merge.py is utilized to merge the output into a quantification matrix.
 
 **Differential Expression Analysis**
