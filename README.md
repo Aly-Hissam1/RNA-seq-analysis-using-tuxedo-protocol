@@ -4,7 +4,7 @@
 
 This project implements two protocols for RNA-seq analysis. The first utilizes the Tuxedo protocol, while the second employs state-of-the-art tools to generate a count matrix followed by differential gene expression analysis. The image provided illustrates the workflow of these protocols.
 
-                  ![image](https://github.com/Aly-Hissam1/RNA-seq-analysis-using-tuxedo-protocol/assets/117119881/e4da9851-3735-4599-a4b6-3e452c8dd330)
+  ![image](https://github.com/Aly-Hissam1/RNA-seq-analysis-using-tuxedo-protocol/assets/117119881/e4da9851-3735-4599-a4b6-3e452c8dd330)
 
 **Protocols Workflow**
 
