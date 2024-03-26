@@ -1,1 +1,1 @@
-# RNA-seq-analysis-using-tuxedo-protocol
+# RNA-seq-Analysis-Using-Tuxedo-Protocol
