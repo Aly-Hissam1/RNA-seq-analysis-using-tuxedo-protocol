@@ -1,0 +1,11 @@
+/mnt/Partition_2/Fastqs/SRR24302632_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302632_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302632	1
+/mnt/Partition_2/Fastqs/SRR24302634_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302634_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302634	1
+/mnt/Partition_2/Fastqs/SRR24302635_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302635_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302635	1
+/mnt/Partition_2/Fastqs/SRR24302636_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302636_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302636	1
+/mnt/Partition_2/Fastqs/SRR24302640_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302640_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302640	1
+/mnt/Partition_2/Fastqs/SRR24302643_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302643_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302643	1
+/mnt/Partition_2/Fastqs/SRR24302631_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302631_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302631	1
+/mnt/Partition_2/Fastqs/SRR24302633_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302633_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302633	1
+/mnt/Partition_2/Fastqs/SRR24302639_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302639_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302639	1
+/mnt/Partition_2/Fastqs/SRR24302641_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302641_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302641	1
+/mnt/Partition_2/Fastqs/SRR24302642_1.fastq.gz	/mnt/Partition_2/Fastqs/SRR24302642_2.fastq.gz	/mnt/Partition_2/Interns/Aly_Hissam/genome.fa	SRR24302642	1
